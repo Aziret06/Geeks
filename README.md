@@ -42,7 +42,8 @@
    ```
 
 7. Соблюдайте принцип "Convertional Commit" три вида: -fix (eсли исправили что-то) -feat (если добавили новый функционал) -refactor (eсли изменили рассположение чего-то в коде) пример: 
-    ```"fix: fixed api of url about_us"
+    ```bash
+        "fix: fixed api of url about_us"
         "feat: added search for project"
         "refactor: moved model of room ahead of model info"
         ```
