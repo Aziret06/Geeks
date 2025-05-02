@@ -46,7 +46,7 @@
         "fix: fixed api of url about_us"
         "feat: added search for project"
         "refactor: moved model of room ahead of model info"
-        ```
+    ```
 
 
 ## 🌿 Основы Git
